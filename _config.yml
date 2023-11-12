@@ -1,8 +1,8 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: Changelog of OOKAMI #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Hier sind die neusten Updates für OOKAMI zu finden"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
 heading: Updates # (optional)
@@ -11,36 +11,36 @@ heading: Updates # (optional)
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://ookami.chat # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https://updates.ookami.chat"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: t0g3pii/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+#star-badge: false  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+#watch-badge: false #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
-rss-feed-icon: true #(optional)
+#rss-feed-icon: true #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics:  #(recommended)
+analytics: G-8JJ29K35RM #(recommended)
 
 # https://changelog-site.disqus.com
 # disqus-identifier: changelog-site  # (optional)
 
 # Allow users to comment via facebook
-fb-comment: true
+fb-comment: false
 
 # Allow search engines to index your changelog website
 allow-searchengine: true #optional
