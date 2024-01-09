@@ -1,5 +1,5 @@
 ---
-title:  "Internes TImer Update und neuer Befehl"
+title:  "Internes Timer Update und neuer Befehl"
 category: Timer
 ---
 Im Backend (Im Code) von Ookami herrschte eine lange Weile ein riesen Chaos bezüglich den Timern.
