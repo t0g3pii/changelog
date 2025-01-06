@@ -2,7 +2,7 @@
 # Changelog [![Netlify Status](https://api.netlify.com/api/v1/badges/c060c0d5-0094-4d96-834c-4e8217d78716/deploy-status)](https://app.netlify.com/sites/ookamiupdates/deploys)
 Create a Changelog site for OOKAMI
 
-[Live URL]([https://updates.changelog.site](https://updates.ookami.chat/))
+[Live URL](https://updates.ookami.chat/)
 
 ## Publish Post
 1. Create new file under `_posts` folder
