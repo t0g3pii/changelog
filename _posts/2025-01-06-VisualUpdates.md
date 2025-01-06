@@ -18,7 +18,8 @@ Effizienz des Codes verbessert. Alte Fehler korrigiert.
 - Bitte nur `#Gamblestats 24` für einen Zeitraum von 24 Stunden nutzen.
 
 `#Action:` Neue Actionbefehle!
-- Nimmt nun auch statt `@Person` das Wort `Pet` um den Actionbefehl auf euer Pet anzuwenden. 
+- Nimmt nun auch statt `@Person` das Wort `Pet` um den Actionbefehl auf euer Pet anzuwenden.
+- Neue verschiedene Sticker für alle Actionbefehle! *Bei fehlerhaften Stickern per `#Support` melden!*
 
 `#Flip:` Sticker geändert, Kopf und Zahl besser erkenntlich.
 
