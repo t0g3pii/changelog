@@ -11,6 +11,6 @@ Ebenso, da es nun ein einheitliches System für alle TImer gibt, konnten wir nun
 
 Bugs und Probleme bitte über den Bot per **#Support** melden
 
-*Ebenso wurden einige kleine Typos gefixt und die Benutzerbedienung vereinfacht, zb **#Pet hunt** triggert nun auch bei **#Pet hunr**
+*Ebenso wurden einige kleine Typos gefixt und die Benutzerbedienung vereinfacht, zb **#Pet hunt** triggert nun auch bei **#Pet hunt***
 
 Euer Wolf
