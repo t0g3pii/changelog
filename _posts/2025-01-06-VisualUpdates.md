@@ -25,6 +25,8 @@ Effizienz des Codes verbessert. Alte Fehler korrigiert.
 - [BUG] Sell ohne Pet nicht mehr möglich.
 - Rückerstattete XP Anzeigefehler behoben.
 
+`#Pet buy:` Nach dem Kauf wird nicht mehr der Timer resetet. Neue Spieler können direkt hunten.
+
 `#Pet:` Neue Haustiere!
 - Papagei
 - Husky Welpe
