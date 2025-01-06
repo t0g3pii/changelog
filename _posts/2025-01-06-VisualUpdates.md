@@ -1,6 +1,6 @@
 ---
 title: Visuelle Updates
-category: Visuelles&Zusätze
+category: Visuelles & Zusätze
 ---
 
 # Anpassungen/Fixes
@@ -33,5 +33,3 @@ Effizienz des Codes verbessert. Alte Fehler korrigiert.
 - Delfin
 - Eisbär
 - Feuerdrache
-
-# Hinzugefügt/Neues
