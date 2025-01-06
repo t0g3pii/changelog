@@ -17,6 +17,8 @@ Effizienz des Codes verbessert. Alte Fehler korrigiert.
 - Dieser Befehl zeigt einen Aktivitäslog aller Gambles.
 - Bitte nur `#Gamblestats 24` für einen Zeitraum von 24 Stunden nutzen.
 
+`#Action:` Neue Actionbefehle!
+
 `#Flip:` Sticker geändert, Kopf und Zahl besser erkenntlich.
 
 `#Gamble:` Sticker für *Kopf* und *Zahl* eingebaut.
