@@ -8,7 +8,7 @@ description: "Hier sind die neusten Updates für OOKAMI zu finden"
 heading: Updates # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/OKAMI2.png #(required)
+logo: /assets/images/OkamiLogo.webp #(required)
 
 # Your Product's Website
 website: https://ookami.chat # (required)
