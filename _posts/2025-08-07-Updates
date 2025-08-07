@@ -1,0 +1,25 @@
+---
+title: Updates and Fixes
+category: Quality of life
+---
+
+# Anpassungen/Fixes
+
+Einige Typos und Bugs gefixt.
+- `#delete` Funktioniert nun auch mit `#del`.
+- `#sticker` Funktioniert nun auch mit `#stickee`.
+- `#stacker` Funktioniert nun auch mit `#sracker`.
+- `#pet` Funktioniert nun auch mit `#pez`.
+- Bei den Pet Befehlen die `book` beinhalten funktioniert nun auch mit `books`, `booj` oder `bool`.
+- `#groupinfo` zeigt nun auch wieder das Gruppenbild an.
+- `#groupinfo` zeigt nun auch den Gruppenlink an.
+- `#grouplink` Funktioniert nun auch mit `#glink`.
+- Der OOKAMI Kanal ist nun sichtbar in `#okagruppen`.
+- Die OOKAMI Website ist nun sichtbar in `#okagruppen`.
+- `#okagruppen` Funktioniert nun auch mit.. (Zu viele hinzugefügt).
+- In `#credits` wurde Lux nun endgültig in die Rente geschickt. Wir danken für seine Arbeit.
+
+# Hinzugefügt/Neues
+
+- `#grouplink` wurde hinzugefügt zum Abrufen des Gruppenlinks (Bot benötigt Admin).
+- Ein Neues Secret wurde eingebaut.
