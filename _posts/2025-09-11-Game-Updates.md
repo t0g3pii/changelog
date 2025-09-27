@@ -54,7 +54,7 @@ Die Chancen der Seltenheiten und die Belohnungen wurden angepasst.
   50'000$ bis 250'000$
 - 🎁 *Mythisch (M)*: 
   *5% Chance*
-  250'000$ bis 1'000'000$
+  250'000$ bis 500'000$
 - 🖕🏾 *Fail (F)*:
   *10% Chance*
 ```
