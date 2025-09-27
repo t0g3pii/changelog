@@ -1,0 +1,99 @@
+---
+title: Updates and Fixes
+category: Quality of life
+---
+
+# Infos
+
+Es sind noch nicht alle geplanten Neuerungen eingebaut und nicht alle Bugs gefixt. Dies wird in der nächsten Zeit folgen.
+
+# Anpassungen/Fixes
+
+- Einige Typos und Bugs gefixt.
+
+# Spiele
+
+## Fischen
+
+Die Chancen der Seltenheiten und die Belohnungen wurden angepasst.
+
+### Alt:
+```
+- 💩 Gewöhnlich (C):
+	35% Chance
+	50$ bis 1'000$
+- 🥉 Selten (R):
+	25% Chance
+	500$ bis 3'000$
+- 🌟 Episch (E):
+	15% Chance
+	5'000$ bis 15'000$
+- 💎 Legendär (L):
+	5% Chance
+	20'000$ bis 50'000$
+- 🎁 Mythisch (M): 
+	2% Chance
+	100'000$ bis 250'000$
+- 🖕🏾 Fail (F):
+	10% Chance
+```
+
+### Neu
+```
+- 💩 *Gewöhnlich (C)*:
+  *30% Chance*
+  250$ bis 1'000$
+- 🥉 *Selten (R)*:
+  *25% Chance*
+  1'500$ bis 10'000$
+- 🌟 *Episch (E)*:
+  *20% Chance*
+  10'000$ bis 40'000$
+- 💎 *Legendär (L)*:
+  *10% Chance*
+  50'000$ bis 250'000$
+- 🎁 *Mythisch (M)*: 
+  *5% Chance*
+  250'000$ bis 1'000'000$
+- 🖕🏾 *Fail (F)*:
+  *10% Chance*
+```
+
+## Timer
+
+Der `Pet Hunt` Timer wird nun gemäss des aktuellen Levels angezeigt.
+
+## Blackjack
+
+Maximaler Einsatz wurde von 500'000$ auf 1'000'000 erhöht
+
+## Stacker
+
+Chancen wurden etwas erhöht
+
+### Alt
+```
+🔢 Gewinnchancen pro Stufe:
+x2: 60% |  x3: 50% | x4: 40% | x8: 20% | x16: 10% | x32: 5% | x64: 3%
+```
+
+### Neu
+```
+🔢 Gewinnchancen pro Stufe:
+x2: 75% |  x3: 60% | x4: 50% | x8: 40% | x16: 20% | x32: 10% | x64: 5%
+```
+
+Ebenso wurde der maximale Einsatz von 250'000$ auf 500'000$ erhöht.
+
+## Slot Highroller
+
+Maximaler Einsatz auf 5'000'000$ erhöht.
+
+# Bugs und Fehler
+
+Es wurden **einige** Bugs und Fehler behoben.
+
+# Neue Befehle
+
+- `#bonk` Action Befehl
+
